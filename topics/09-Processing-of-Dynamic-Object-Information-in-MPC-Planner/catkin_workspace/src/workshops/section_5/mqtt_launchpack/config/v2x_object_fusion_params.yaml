@@ -1,0 +1,15 @@
+broker:
+  host: broker.hivemq.com
+  port: 1883
+
+bridge:
+  mqtt2ros:
+    # Station A
+    - mqtt_topic: ika_acdc_22/objectList_a
+      ros_topic: /topicA
+    # Station B
+    - mqtt_topic: ika_acdc_22/objectList_b
+      ros_topic: /topicB
+    # Ground Truth
+    - mqtt_topic: ika_acdc_22/objectList_gt
+      ros_topic: /topicGT

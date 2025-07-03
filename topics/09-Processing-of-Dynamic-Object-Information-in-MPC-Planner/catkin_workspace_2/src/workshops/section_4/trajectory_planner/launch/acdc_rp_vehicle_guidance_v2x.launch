@@ -1,0 +1,9 @@
+<launch>
+
+  <include file="$(find trajectory_planner)/launch/vehicle_guidance_v2x.launch"/>
+
+  <!-- SPAT Generator (for ACDC RP only) -->
+  <include file="$(find v2x_spat_generator)/launch/default.launch">
+  </include>
+
+</launch>

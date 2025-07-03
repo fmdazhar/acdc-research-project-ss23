@@ -1,0 +1,7 @@
+workshops/section_2/pointcloud_ogm
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_ogm/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_ogm/share/pointcloud_ogm/cmake/pointcloud_ogmConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/pointcloud_ogm/cmake/pointcloud_ogmConfig-version.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_ogm/share/pointcloud_ogm/cmake/pointcloud_ogmConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/pointcloud_ogm/cmake/pointcloud_ogmConfig.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_ogm/lib/libGeometricISM.so /home/rosuser/ws/catkin_workspace/devel/lib/libGeometricISM.so
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_ogm/lib/libDeepISM.so /home/rosuser/ws/catkin_workspace/devel/lib/libDeepISM.so
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_ogm/lib/pkgconfig/pointcloud_ogm.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/pointcloud_ogm.pc

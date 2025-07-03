@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/galactic/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/control-toolbox/ct_core/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/control-toolbox/ct_models/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/control-toolbox/ct_optcon/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/control-toolbox/ct_rbd/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/definitions/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/flatland/flatland_plugins/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/flatland/flatland_server/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/flatland/flatland_viz/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/flatland_plugins_ika/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/kindr/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/tensorflow_cpp/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/dependencies/v2x_spat_generator/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/workshops/section_2/racing/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/workshops/section_3/lidar_detection/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/workshops/section_3/pointcloud_ogm/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/workshops/section_4/object_fusion/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/workshops/section_4/object_fusion_wrapper/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/workshops/section_5/trajectory_ctrl/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/workshops/section_5/trajectory_planner/include/**",
+        "/home/vsranjitroshan/acdc/catkin_workspace/src/workshops/section_6/spat_visualization/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,5 @@
+workshops/section_2/pointcloud_segmentation_py
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_segmentation_py/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_segmentation_py/share/pointcloud_segmentation_py/cmake/pointcloud_segmentation_pyConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/pointcloud_segmentation_py/cmake/pointcloud_segmentation_pyConfig-version.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_segmentation_py/share/pointcloud_segmentation_py/cmake/pointcloud_segmentation_pyConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/pointcloud_segmentation_py/cmake/pointcloud_segmentation_pyConfig.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/pointcloud_segmentation_py/lib/pkgconfig/pointcloud_segmentation_py.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/pointcloud_segmentation_py.pc

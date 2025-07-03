@@ -1,0 +1,6 @@
+workshops/section_2/lidar_detection
+/home/rosuser/ws/catkin_workspace/devel/.private/lidar_detection/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
+/home/rosuser/ws/catkin_workspace/devel/.private/lidar_detection/share/lidar_detection/cmake/lidar_detectionConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/lidar_detection/cmake/lidar_detectionConfig.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/lidar_detection/share/lidar_detection/cmake/lidar_detectionConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/lidar_detection/cmake/lidar_detectionConfig-version.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/lidar_detection/lib/liblidar_detection.so /home/rosuser/ws/catkin_workspace/devel/lib/liblidar_detection.so
+/home/rosuser/ws/catkin_workspace/devel/.private/lidar_detection/lib/pkgconfig/lidar_detection.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/lidar_detection.pc

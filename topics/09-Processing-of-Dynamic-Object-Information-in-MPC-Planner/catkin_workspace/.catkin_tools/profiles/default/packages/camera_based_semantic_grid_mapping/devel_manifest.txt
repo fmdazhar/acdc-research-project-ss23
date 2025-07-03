@@ -1,0 +1,2 @@
+workshops/section_2/camera_based_semantic_grid_mapping
+/home/rosuser/ws/catkin_workspace/devel/.private/camera_based_semantic_grid_mapping/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock

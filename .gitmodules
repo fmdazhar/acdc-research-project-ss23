@@ -1,0 +1,6 @@
+[submodule "acdc-notebooks"]
+	path = acdc-notebooks
+	url = https://github.com/ika-rwth-aachen/acdc-notebooks.git
+[submodule "topics/07-Visual-Lane-Following-for-Scaled-Automated-Vehicles/scaled-acv-device-platform"]
+	path = topics/07-Visual-Lane-Following-for-Scaled-Automated-Vehicles/scaled-acv-device-platform
+	url = https://git.rwth-aachen.de/ika/acdc-research-project-ss23/scaled-acv-device-platform.git

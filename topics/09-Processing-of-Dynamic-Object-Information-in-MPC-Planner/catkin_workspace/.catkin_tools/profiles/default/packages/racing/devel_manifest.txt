@@ -1,0 +1,8 @@
+workshops/section_1/racing
+/home/rosuser/ws/catkin_workspace/devel/.private/racing/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
+/home/rosuser/ws/catkin_workspace/devel/.private/racing/share/racing/cmake/racingConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/racing/cmake/racingConfig-version.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/racing/share/racing/cmake/racingConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/racing/cmake/racingConfig.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/racing/lib/libracing_library.so /home/rosuser/ws/catkin_workspace/devel/lib/libracing_library.so
+/home/rosuser/ws/catkin_workspace/devel/.private/racing/lib/racing/vehicle_timer_node /home/rosuser/ws/catkin_workspace/devel/lib/racing/vehicle_timer_node
+/home/rosuser/ws/catkin_workspace/devel/.private/racing/lib/racing/vehicle_controller_node /home/rosuser/ws/catkin_workspace/devel/lib/racing/vehicle_controller_node
+/home/rosuser/ws/catkin_workspace/devel/.private/racing/lib/pkgconfig/racing.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/racing.pc

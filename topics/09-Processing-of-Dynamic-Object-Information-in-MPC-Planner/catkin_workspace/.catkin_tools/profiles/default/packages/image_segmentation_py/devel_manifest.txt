@@ -1,0 +1,5 @@
+workshops/section_2/image_segmentation_py
+/home/rosuser/ws/catkin_workspace/devel/.private/image_segmentation_py/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
+/home/rosuser/ws/catkin_workspace/devel/.private/image_segmentation_py/share/image_segmentation_py/cmake/image_segmentation_pyConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/image_segmentation_py/cmake/image_segmentation_pyConfig-version.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/image_segmentation_py/share/image_segmentation_py/cmake/image_segmentation_pyConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/image_segmentation_py/cmake/image_segmentation_pyConfig.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/image_segmentation_py/lib/pkgconfig/image_segmentation_py.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/image_segmentation_py.pc

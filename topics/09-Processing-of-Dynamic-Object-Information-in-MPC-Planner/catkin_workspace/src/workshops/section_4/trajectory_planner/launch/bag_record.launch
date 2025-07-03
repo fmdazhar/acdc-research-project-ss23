@@ -1,0 +1,4 @@
+<launch>
+    <!-- Node to record simulation data-->
+    <node pkg="rosbag" type="record" name="performanceAnalysisBag" args="-o /home/rosuser/ws/bag/bag1.bag /odometry/ground_truth /mpc/analysisValues"/>
+</launch>

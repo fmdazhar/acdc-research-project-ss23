@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="rosbag" type="play" name="ros_play" output="screen" args="/home/rosuser/ws/bag/acdc_fusion_guidance_noise.bag"/>
+</launch>
